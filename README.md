@@ -1,22 +1,31 @@
-# 📊 Power BI Project
+# 📊 Power BI Performance Report
 
 ## 📌 Project Overview
-This project analyzes data using Power BI to generate business insights and performance metrics.
-
-## 🎯 Objectives
-- Analyze key KPIs
-- Identify trends
-- Provide actionable insights
+This Power BI project analyzes performance metrics across marketing channels, campaign effectiveness, and key trends.
 
 ## 🛠 Tools Used
-- Power BI
-- DAX
-- Data Modeling
+- Power BI Desktop
+- Data modeling
+- Visual analytics
 
-## 📷 Dashboard Preview
-(Add screenshot image here)
+## 📷 Dashboard Previews
 
-## 📈 Key Insights
-- Insight 1
-- Insight 2
-- Insight 3
+### Overview
+![Overview](dashboard_overview.png)
+
+### KPI Summary
+![KPI Summary](kpi_summary.png)
+
+### Channel Metrics
+![Channel Metrics](channel_metrics.png)
+
+### Trend Analysis
+![Trend Analysis](trend_analysis.png)
+
+### Filters & Insights
+![Insights & Filters](insights_filters.png)
+
+## 📈 Key Findings
+- Highest performing channel identified
+- KPI trends across periods are visible
+- Insights based on filters

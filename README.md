@@ -8,22 +8,25 @@ This Power BI project analyzes performance metrics across marketing channels, ca
 - Data modeling
 - Visual analytics
 
-## 📷 Dashboard Previews
+## Dashboard Previews
 
-### Overview
-![Overview](dashboard_overview.png)
+### Executive Overview
+![Executive Overview](Executive_Overview.png.png)
 
-### KPI Summary
-![KPI Summary](kpi_summary.png)
+### Campaign ROI Dashboard
+![Campaign ROI](Campaign_ROI_Dashboard.png)
 
-### Channel Metrics
-![Channel Metrics](channel_metrics.png)
+### Campaign Efficiency Analysis
+![Campaign Efficiency](Campaign_Efficiency_Analysis.png.png)
 
-### Trend Analysis
-![Trend Analysis](trend_analysis.png)
+### Campaign Trends & Timeline
+![Campaign Trends](Campaign_Trends & Timeline.png)
 
-### Filters & Insights
-![Insights & Filters](insights_filters.png)
+### Portal Performance Analysis
+![Portal Performance](Portal_Performance_Analysis.png.png)
+
+### Top N Campaign Insights
+![Top Campaign Insights](Top N_Campaign_Insights.png)
 
 ## 📈 Key Findings
 - Highest performing channel identified
